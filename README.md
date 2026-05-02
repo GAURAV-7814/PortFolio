@@ -1,4 +1,4 @@
-# Gaurav Garg — Portfolio
+# Gaurav Garg - Portfolio
 
 A personal portfolio website for **Gaurav Garg**, a Software Engineer focused on full-stack development, data engineering, and AI. Built with an editorial, dark aesthetic to showcase work, experience, and contact information.
 
@@ -7,11 +7,11 @@ A personal portfolio website for **Gaurav Garg**, a Software Engineer focused on
 ## ✨ Features
 
 - **Hero section** with intro, portrait, and direct CV / Resume downloads
-- **About** — background and skills overview
-- **Work** — selected projects
-- **Experience** — professional timeline
-- **Contact** — easy ways to get in touch
-- **Marquee** — animated tech / keyword strip
+- **About** - background and skills overview
+- **Work** - selected projects
+- **Experience** - professional timeline
+- **Contact** - easy ways to get in touch
+- **Marquee** - animated tech / keyword strip
 - Smooth scroll-triggered reveal animations (`useReveal` hook)
 - Fully responsive, semantic HTML, SEO meta tags
 - Themed via design tokens (HSL semantic colors in `index.css` + Tailwind config)
